@@ -18,7 +18,7 @@ const router = createBrowserRouter([
             element:<MultipleItems></MultipleItems>
            },
            {
-            path:'/fade',
+            path:'/',
             element:<Fade></Fade>
            }
         ]

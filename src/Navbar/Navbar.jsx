@@ -20,7 +20,7 @@ const Navbar = () => {
                     
                     
                     <li>
-                    <Link to='/fade'>
+                    <Link to='/'>
                     Fade Auto
                     </Link> 
                     </li>
