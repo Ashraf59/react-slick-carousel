@@ -8,6 +8,9 @@ import img3 from '../../assets/carousel-img/nature-3.jpg'
 import img4 from '../../assets/carousel-img/nature-4.jpg'
 import img5 from '../../assets/carousel-img/nature-5.jpg'
 import img6 from '../../assets/carousel-img/nature-6.jpg'
+import img7 from '../../assets/carousel-img/nature-7.jpg'
+import img8 from '../../assets/carousel-img/nature-8.jpg'
+import img9 from '../../assets/carousel-img/nature-9.jpg'
 
 const MultipleItems = () => {
 
@@ -67,13 +70,13 @@ const MultipleItems = () => {
           <img src={img6} alt="" />
           </div>
           <div className='multiple'>
-          <img src={img6} alt="" />
+          <img src={img7} alt="" />
           </div>
           <div className='multiple'>
-          <img src={img1} alt="" />
+          <img src={img8} alt="" />
           </div>
           <div className='multiple'>
-          <img src={img3} alt="" />
+          <img src={img9} alt="" />
           </div>
         </Slider>
       </div>
