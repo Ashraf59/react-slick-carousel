@@ -22,36 +22,36 @@ const Fade = () => {
         <Slider {...settings}>
           <div className='slider slider-1'>
           <div className='slider-text'>
-          <h4 className="text-light mb-3">Booked Now </h4>
-          <h1 className="text-light mb-4">Next-gen speed unveiled</h1>
+          <h4>Booked Now </h4>
+          <h1>Next-gen speed unveiled</h1>
           </div>
           </div>
 
           <div className='slider slider-2'>
           <div className='slider-text'>
-          <h4 className="text-light mb-3">Booked Now </h4>
-          <h1 className="text-light mb-4">Next-gen speed unveiled</h1>
+          <h4>Booked Now </h4>
+          <h1>Next-gen speed unveiled</h1>
           </div>
           </div>
 
           <div className='slider slider-3'>
           <div className='slider-text'>
-          <h4 className="text-light mb-3">Booked Now </h4>
-          <h1 className="text-light mb-4">Next-gen speed unveiled</h1>
+          <h4>Booked Now </h4>
+          <h1>Next-gen speed unveiled</h1>
           </div>
           </div>
 
           <div className='slider slider-4'>
           <div className='slider-text'>
-          <h4 className="text-light mb-3">Booked Now </h4>
-          <h1 className="text-light mb-4">Next-gen speed unveiled</h1>
+          <h4 >Booked Now </h4>
+          <h1 >Next-gen speed unveiled</h1>
           </div>
           </div>
 
           <div className='slider slider-5'>
           <div className='slider-text'>
-          <h4 className="text-light mb-3">Booked Now </h4>
-          <h1 className="text-light mb-4">Next-gen speed unveiled</h1>
+          <h4>Booked Now </h4>
+          <h1>Next-gen speed unveiled</h1>
           </div>
           </div>
         </Slider>

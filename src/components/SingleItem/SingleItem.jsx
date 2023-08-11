@@ -22,7 +22,7 @@ const SingleItem = () => {
         
     return (
         <div className='singleItem'>
-        {/* <h2> Single Item</h2> */}
+        
         <Slider {...settings}>
           <div className='img-size'>
            <img src={img1} alt="" />
